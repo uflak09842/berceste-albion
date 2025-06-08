@@ -1,14 +1,14 @@
 {
-	"token": "MTMwMDY1NTc5OTk4NjU1Njk2OA.G32Qmj.j1DJmJDIIMQaBcjn9Av4Y0gkkPauQ7_xnHvoNQ",
-	"clientId": "1300655799986556968",
+	"token": "",
+	"clientId": "",
 	"allowedGuildId": [
-		"1278876412073345074"
+		""
 	],
-	"sunucuId": "1278876412073345074",
-	"kurucuId": "1071414481734869054",
-	"logChannel": "1279009152777064525",
-	"marketAmerikaServer": "https://west.albion-online-data.com",
-	"marketAsyaServer": "https://east.albion-online-data.com",
-	"marketAvrupaServer": "https://europe.albion-online-data.com",
-	"statChId": "1301170876699508807"
+	"sunucuId": "",
+	"kurucuId": "",
+	"logChannel": "",
+	"marketAmerikaServer": "",
+	"marketAsyaServer": "",
+	"marketAvrupaServer": "",
+	"statChId": ""
 }
